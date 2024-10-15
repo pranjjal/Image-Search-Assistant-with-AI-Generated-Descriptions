@@ -28,5 +28,4 @@ The results (titles and links) are displayed in the web app for the user to brow
 
 ![image](https://github.com/user-attachments/assets/dd415e71-7b20-4658-8cde-2c255d25320a)
 
-![image](https://github.com/user-attachments/assets/d328de8b-a3a8-416d-bfbe-b13b781eafe0)
 
